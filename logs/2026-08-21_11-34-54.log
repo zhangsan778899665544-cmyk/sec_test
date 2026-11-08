@@ -1,0 +1,1077 @@
+2026-08-28 00:18:41 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:18:41 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.006938s ==========
+2026-08-28 00:18:41 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000344s ==========
+2026-08-28 00:18:41 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:18:41 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000121s ==========
+2026-08-28 00:18:41 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000261s ==========
+2026-08-28 00:18:56 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:18:56 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000699s ==========
+2026-08-28 00:18:56 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001165s ==========
+2026-08-28 00:18:56 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:18:56 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000473s ==========
+2026-08-28 00:18:56 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000802s ==========
+2026-08-28 00:19:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:19:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000714s ==========
+2026-08-28 00:19:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001269s ==========
+2026-08-28 00:19:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:19:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000627s ==========
+2026-08-28 00:19:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001220s ==========
+2026-08-28 00:19:49 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:19:49 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000223s ==========
+2026-08-28 00:19:49 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000359s ==========
+2026-08-28 00:19:49 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:19:49 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000126s ==========
+2026-08-28 00:19:49 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000317s ==========
+2026-08-28 00:20:07 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:07 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000392s ==========
+2026-08-28 00:20:07 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000619s ==========
+2026-08-28 00:20:07 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:07 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000205s ==========
+2026-08-28 00:20:07 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000494s ==========
+2026-08-28 00:20:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000582s ==========
+2026-08-28 00:20:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001071s ==========
+2026-08-28 00:20:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000305s ==========
+2026-08-28 00:20:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000766s ==========
+2026-08-28 00:20:33 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:33 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000389s ==========
+2026-08-28 00:20:33 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000677s ==========
+2026-08-28 00:20:33 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:33 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000228s ==========
+2026-08-28 00:20:33 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000560s ==========
+2026-08-28 00:20:44 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:44 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000706s ==========
+2026-08-28 00:20:44 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001330s ==========
+2026-08-28 00:20:44 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:44 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000513s ==========
+2026-08-28 00:20:44 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001078s ==========
+2026-08-28 00:20:57 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:57 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000789s ==========
+2026-08-28 00:20:57 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001295s ==========
+2026-08-28 00:20:57 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:20:57 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000451s ==========
+2026-08-28 00:20:57 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001060s ==========
+2026-08-28 00:21:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:21:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000920s ==========
+2026-08-28 00:21:21 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001863s ==========
+2026-08-28 00:21:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:21:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000733s ==========
+2026-08-28 00:21:21 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001296s ==========
+2026-08-28 00:21:53 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:21:53 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000917s ==========
+2026-08-28 00:21:53 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001252s ==========
+2026-08-28 00:21:53 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-a53bdfd8-9fcb-416c-b875-72be5ba0c3f1', 'fc-cfbfb82b-4adb-47fa-b723-0b1336894d2e'}
+2026-08-28 00:21:53 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000461s ==========
+2026-08-28 00:21:53 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001030s ==========
+2026-08-28 00:35:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:35:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000501s ==========
+2026-08-28 00:35:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000265s ==========
+2026-08-28 00:35:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:35:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000097s ==========
+2026-08-28 00:35:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000201s ==========
+2026-08-28 00:35:25 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:35:25 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000669s ==========
+2026-08-28 00:35:25 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000719s ==========
+2026-08-28 00:35:25 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:35:25 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000357s ==========
+2026-08-28 00:35:25 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000366s ==========
+2026-08-28 00:35:40 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:35:40 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000619s ==========
+2026-08-28 00:35:40 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001089s ==========
+2026-08-28 00:35:40 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:35:40 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000362s ==========
+2026-08-28 00:35:40 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000567s ==========
+2026-08-28 00:36:24 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:36:24 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000875s ==========
+2026-08-28 00:36:24 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000894s ==========
+2026-08-28 00:36:24 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:36:24 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000398s ==========
+2026-08-28 00:36:24 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000781s ==========
+2026-08-28 00:36:53 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:36:53 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000314s ==========
+2026-08-28 00:36:53 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000298s ==========
+2026-08-28 00:36:53 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:36:53 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000111s ==========
+2026-08-28 00:36:53 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000242s ==========
+2026-08-28 00:37:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:37:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000614s ==========
+2026-08-28 00:37:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000389s ==========
+2026-08-28 00:37:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:37:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000120s ==========
+2026-08-28 00:37:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000278s ==========
+2026-08-28 00:37:36 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:37:36 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001035s ==========
+2026-08-28 00:37:36 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001465s ==========
+2026-08-28 00:37:36 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:37:36 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000417s ==========
+2026-08-28 00:37:36 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000899s ==========
+2026-08-28 00:38:01 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:01 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000562s ==========
+2026-08-28 00:38:01 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000617s ==========
+2026-08-28 00:38:01 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:01 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000204s ==========
+2026-08-28 00:38:01 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000468s ==========
+2026-08-28 00:38:19 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:19 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000942s ==========
+2026-08-28 00:38:19 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001031s ==========
+2026-08-28 00:38:19 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:19 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000400s ==========
+2026-08-28 00:38:19 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000860s ==========
+2026-08-28 00:38:31 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:31 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.003411s ==========
+2026-08-28 00:38:31 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001177s ==========
+2026-08-28 00:38:31 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:31 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000444s ==========
+2026-08-28 00:38:31 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000912s ==========
+2026-08-28 00:38:40 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:40 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000832s ==========
+2026-08-28 00:38:40 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001522s ==========
+2026-08-28 00:38:40 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:40 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000551s ==========
+2026-08-28 00:38:40 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002046s ==========
+2026-08-28 00:38:56 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:56 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001247s ==========
+2026-08-28 00:38:56 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000792s ==========
+2026-08-28 00:38:56 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:38:56 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000264s ==========
+2026-08-28 00:38:56 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000719s ==========
+2026-08-28 00:39:07 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:39:07 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000978s ==========
+2026-08-28 00:39:07 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001347s ==========
+2026-08-28 00:39:07 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:39:07 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000445s ==========
+2026-08-28 00:39:07 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000976s ==========
+2026-08-28 00:39:38 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:39:38 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001106s ==========
+2026-08-28 00:39:38 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000768s ==========
+2026-08-28 00:39:38 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:39:38 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000262s ==========
+2026-08-28 00:39:38 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000763s ==========
+2026-08-28 00:40:09 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:40:09 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001220s ==========
+2026-08-28 00:40:09 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001511s ==========
+2026-08-28 00:40:09 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:40:09 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000769s ==========
+2026-08-28 00:40:09 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001959s ==========
+2026-08-28 00:40:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:40:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001237s ==========
+2026-08-28 00:40:21 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001726s ==========
+2026-08-28 00:40:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:40:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000518s ==========
+2026-08-28 00:40:21 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001176s ==========
+2026-08-28 00:40:35 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:40:35 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000696s ==========
+2026-08-28 00:40:35 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001170s ==========
+2026-08-28 00:40:35 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:40:35 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000387s ==========
+2026-08-28 00:40:35 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000950s ==========
+2026-08-28 00:40:53 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:40:53 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001144s ==========
+2026-08-28 00:40:53 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001714s ==========
+2026-08-28 00:40:53 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723'}
+2026-08-28 00:40:53 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000687s ==========
+2026-08-28 00:40:53 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001573s ==========
+2026-08-28 00:41:04 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:04 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001034s ==========
+2026-08-28 00:41:04 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001398s ==========
+2026-08-28 00:41:04 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:04 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000659s ==========
+2026-08-28 00:41:04 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001530s ==========
+2026-08-28 00:41:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000453s ==========
+2026-08-28 00:41:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000788s ==========
+2026-08-28 00:41:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000274s ==========
+2026-08-28 00:41:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000717s ==========
+2026-08-28 00:41:33 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:33 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000377s ==========
+2026-08-28 00:41:33 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000461s ==========
+2026-08-28 00:41:33 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:33 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000142s ==========
+2026-08-28 00:41:33 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000379s ==========
+2026-08-28 00:41:45 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:45 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001055s ==========
+2026-08-28 00:41:45 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001544s ==========
+2026-08-28 00:41:45 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:45 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000469s ==========
+2026-08-28 00:41:45 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001111s ==========
+2026-08-28 00:41:55 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:55 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000527s ==========
+2026-08-28 00:41:55 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001449s ==========
+2026-08-28 00:41:55 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:41:55 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000279s ==========
+2026-08-28 00:41:55 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000731s ==========
+2026-08-28 00:42:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:42:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001294s ==========
+2026-08-28 00:42:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002179s ==========
+2026-08-28 00:42:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:42:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000624s ==========
+2026-08-28 00:42:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001626s ==========
+2026-08-28 00:42:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:42:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001160s ==========
+2026-08-28 00:42:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001476s ==========
+2026-08-28 00:42:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-b8d3e990-6c98-4b54-a1c0-e4801c079a27', 'fc-29e9bf87-da76-4dd3-9671-12566c5e9723', 'fc-2660217d-892a-43a6-9020-bdcab86d3ee3', 'fc-c2439db4-af81-4d76-b9ee-13033fcd53c1', 'fc-b52cc050-62cf-4580-997d-748dfbb42c0f'}
+2026-08-28 00:42:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000426s ==========
+2026-08-28 00:42:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000901s ==========
+2026-08-28 02:21:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:21:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000602s ==========
+2026-08-28 02:21:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000267s ==========
+2026-08-28 02:21:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:21:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000123s ==========
+2026-08-28 02:21:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000200s ==========
+2026-08-28 02:21:29 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:21:29 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000162s ==========
+2026-08-28 02:21:29 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000245s ==========
+2026-08-28 02:21:29 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:21:29 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000109s ==========
+2026-08-28 02:21:29 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000219s ==========
+2026-08-28 02:22:01 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:01 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000914s ==========
+2026-08-28 02:22:01 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001150s ==========
+2026-08-28 02:22:01 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:01 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000542s ==========
+2026-08-28 02:22:01 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000765s ==========
+2026-08-28 02:22:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000333s ==========
+2026-08-28 02:22:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000276s ==========
+2026-08-28 02:22:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000116s ==========
+2026-08-28 02:22:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000247s ==========
+2026-08-28 02:22:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000656s ==========
+2026-08-28 02:22:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000953s ==========
+2026-08-28 02:22:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000402s ==========
+2026-08-28 02:22:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001101s ==========
+2026-08-28 02:22:38 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:38 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000606s ==========
+2026-08-28 02:22:38 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000599s ==========
+2026-08-28 02:22:38 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:38 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000210s ==========
+2026-08-28 02:22:38 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000478s ==========
+2026-08-28 02:22:46 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:46 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000699s ==========
+2026-08-28 02:22:46 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000955s ==========
+2026-08-28 02:22:46 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:46 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000487s ==========
+2026-08-28 02:22:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000856s ==========
+2026-08-28 02:22:54 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:54 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002092s ==========
+2026-08-28 02:22:54 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001144s ==========
+2026-08-28 02:22:54 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:22:54 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000385s ==========
+2026-08-28 02:22:54 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000877s ==========
+2026-08-28 02:23:01 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:01 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000696s ==========
+2026-08-28 02:23:01 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001265s ==========
+2026-08-28 02:23:01 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:01 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000417s ==========
+2026-08-28 02:23:01 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001554s ==========
+2026-08-28 02:23:09 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:09 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000817s ==========
+2026-08-28 02:23:09 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001437s ==========
+2026-08-28 02:23:09 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:09 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000469s ==========
+2026-08-28 02:23:09 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001012s ==========
+2026-08-28 02:23:23 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:23 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000682s ==========
+2026-08-28 02:23:23 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000795s ==========
+2026-08-28 02:23:23 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:23 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000245s ==========
+2026-08-28 02:23:23 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000660s ==========
+2026-08-28 02:23:30 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:30 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000758s ==========
+2026-08-28 02:23:30 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001147s ==========
+2026-08-28 02:23:30 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:30 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000378s ==========
+2026-08-28 02:23:30 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000847s ==========
+2026-08-28 02:23:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002489s ==========
+2026-08-28 02:23:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001443s ==========
+2026-08-28 02:23:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291'}
+2026-08-28 02:23:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000468s ==========
+2026-08-28 02:23:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001007s ==========
+2026-08-28 02:24:02 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:24:02 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000960s ==========
+2026-08-28 02:24:02 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001201s ==========
+2026-08-28 02:24:02 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:24:02 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000540s ==========
+2026-08-28 02:24:02 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001146s ==========
+2026-08-28 02:24:30 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:24:30 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001053s ==========
+2026-08-28 02:24:30 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001083s ==========
+2026-08-28 02:24:30 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:24:30 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000408s ==========
+2026-08-28 02:24:30 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000875s ==========
+2026-08-28 02:24:46 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:24:46 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001217s ==========
+2026-08-28 02:24:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001650s ==========
+2026-08-28 02:24:47 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:24:47 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000544s ==========
+2026-08-28 02:24:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001122s ==========
+2026-08-28 02:25:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:25:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002274s ==========
+2026-08-28 02:25:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001535s ==========
+2026-08-28 02:25:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:25:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000551s ==========
+2026-08-28 02:25:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001258s ==========
+2026-08-28 02:25:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:25:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000856s ==========
+2026-08-28 02:25:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001992s ==========
+2026-08-28 02:25:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:25:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000811s ==========
+2026-08-28 02:25:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001687s ==========
+2026-08-28 02:25:46 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:25:46 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001340s ==========
+2026-08-28 02:25:46 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001677s ==========
+2026-08-28 02:25:46 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-0303abf4-1ea0-42a5-bf9f-047983d75291', 'fc-a480d972-fb01-445b-90fd-039740d113b2'}
+2026-08-28 02:25:46 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000595s ==========
+2026-08-28 02:25:46 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001178s ==========
+2026-08-28 03:57:54 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:57:54 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000848s ==========
+2026-08-28 03:57:54 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000354s ==========
+2026-08-28 03:57:54 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:57:54 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000134s ==========
+2026-08-28 03:57:54 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000295s ==========
+2026-08-28 03:58:05 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:58:05 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000315s ==========
+2026-08-28 03:58:05 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000356s ==========
+2026-08-28 03:58:05 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:58:05 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000127s ==========
+2026-08-28 03:58:05 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000304s ==========
+2026-08-28 03:58:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:58:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000825s ==========
+2026-08-28 03:58:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001138s ==========
+2026-08-28 03:58:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:58:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000443s ==========
+2026-08-28 03:58:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000819s ==========
+2026-08-28 03:58:47 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:58:47 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001160s ==========
+2026-08-28 03:58:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001212s ==========
+2026-08-28 03:58:47 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:58:47 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000465s ==========
+2026-08-28 03:58:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000883s ==========
+2026-08-28 03:59:03 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:59:03 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001421s ==========
+2026-08-28 03:59:03 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000485s ==========
+2026-08-28 03:59:03 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:59:03 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000166s ==========
+2026-08-28 03:59:03 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000387s ==========
+2026-08-28 03:59:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:59:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000654s ==========
+2026-08-28 03:59:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000741s ==========
+2026-08-28 03:59:17 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:59:17 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000249s ==========
+2026-08-28 03:59:17 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000607s ==========
+2026-08-28 03:59:39 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:59:39 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001075s ==========
+2026-08-28 03:59:39 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001345s ==========
+2026-08-28 03:59:39 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:59:39 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000482s ==========
+2026-08-28 03:59:39 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001111s ==========
+2026-08-28 03:59:48 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:59:48 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000508s ==========
+2026-08-28 03:59:48 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002045s ==========
+2026-08-28 03:59:48 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 03:59:48 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000512s ==========
+2026-08-28 03:59:48 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001202s ==========
+2026-08-28 04:00:06 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:06 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001067s ==========
+2026-08-28 04:00:06 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001078s ==========
+2026-08-28 04:00:06 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:06 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000277s ==========
+2026-08-28 04:00:06 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000596s ==========
+2026-08-28 04:00:14 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:14 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001247s ==========
+2026-08-28 04:00:14 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001227s ==========
+2026-08-28 04:00:14 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:14 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000474s ==========
+2026-08-28 04:00:14 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001235s ==========
+2026-08-28 04:00:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000849s ==========
+2026-08-28 04:00:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001510s ==========
+2026-08-28 04:00:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000455s ==========
+2026-08-28 04:00:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001152s ==========
+2026-08-28 04:00:35 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:35 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001041s ==========
+2026-08-28 04:00:35 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001480s ==========
+2026-08-28 04:00:35 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:35 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000531s ==========
+2026-08-28 04:00:35 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001201s ==========
+2026-08-28 04:00:48 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:48 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001223s ==========
+2026-08-28 04:00:48 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000572s ==========
+2026-08-28 04:00:48 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:00:48 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000185s ==========
+2026-08-28 04:00:48 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000442s ==========
+2026-08-28 04:01:05 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:01:05 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000382s ==========
+2026-08-28 04:01:05 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000516s ==========
+2026-08-28 04:01:05 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:01:05 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000695s ==========
+2026-08-28 04:01:05 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000459s ==========
+2026-08-28 04:01:41 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:01:41 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002199s ==========
+2026-08-28 04:01:41 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001852s ==========
+2026-08-28 04:01:41 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-dcc6de77-939a-423b-8c9d-3e6308a6de90', 'fc-2db745b0-0448-4235-b060-f16eb3031740', 'fc-3b8b2656-723b-4a9e-8da4-8f3303982220'}
+2026-08-28 04:01:41 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000557s ==========
+2026-08-28 04:01:41 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001327s ==========
+2026-08-28 04:21:25 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:21:25 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000629s ==========
+2026-08-28 04:21:25 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000334s ==========
+2026-08-28 04:21:25 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:21:25 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000137s ==========
+2026-08-28 04:21:25 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000269s ==========
+2026-08-28 04:21:38 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:21:38 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001049s ==========
+2026-08-28 04:21:38 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001054s ==========
+2026-08-28 04:21:38 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:21:38 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000533s ==========
+2026-08-28 04:21:39 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001589s ==========
+2026-08-28 04:22:04 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:04 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000514s ==========
+2026-08-28 04:22:04 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000449s ==========
+2026-08-28 04:22:04 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:04 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000169s ==========
+2026-08-28 04:22:04 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000380s ==========
+2026-08-28 04:22:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000671s ==========
+2026-08-28 04:22:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001265s ==========
+2026-08-28 04:22:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000447s ==========
+2026-08-28 04:22:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000950s ==========
+2026-08-28 04:22:24 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:24 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000600s ==========
+2026-08-28 04:22:24 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000663s ==========
+2026-08-28 04:22:24 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:24 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000217s ==========
+2026-08-28 04:22:24 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000511s ==========
+2026-08-28 04:22:34 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:34 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001072s ==========
+2026-08-28 04:22:34 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002754s ==========
+2026-08-28 04:22:34 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:34 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000470s ==========
+2026-08-28 04:22:34 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000854s ==========
+2026-08-28 04:22:51 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:51 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000433s ==========
+2026-08-28 04:22:51 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000397s ==========
+2026-08-28 04:22:51 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:22:51 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000124s ==========
+2026-08-28 04:22:51 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000307s ==========
+2026-08-28 04:23:02 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:02 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002207s ==========
+2026-08-28 04:23:02 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001198s ==========
+2026-08-28 04:23:02 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:02 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000447s ==========
+2026-08-28 04:23:02 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001020s ==========
+2026-08-28 04:23:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000694s ==========
+2026-08-28 04:23:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000716s ==========
+2026-08-28 04:23:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000221s ==========
+2026-08-28 04:23:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000570s ==========
+2026-08-28 04:23:23 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:23 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001002s ==========
+2026-08-28 04:23:23 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001461s ==========
+2026-08-28 04:23:23 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:23 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000511s ==========
+2026-08-28 04:23:23 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001109s ==========
+2026-08-28 04:23:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002108s ==========
+2026-08-28 04:23:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001065s ==========
+2026-08-28 04:23:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000453s ==========
+2026-08-28 04:23:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001037s ==========
+2026-08-28 04:23:39 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:39 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000934s ==========
+2026-08-28 04:23:39 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001678s ==========
+2026-08-28 04:23:39 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:39 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000687s ==========
+2026-08-28 04:23:39 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001716s ==========
+2026-08-28 04:23:47 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:47 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001085s ==========
+2026-08-28 04:23:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001290s ==========
+2026-08-28 04:23:47 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:23:47 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000447s ==========
+2026-08-28 04:23:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001088s ==========
+2026-08-28 04:24:02 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:24:02 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000668s ==========
+2026-08-28 04:24:02 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000809s ==========
+2026-08-28 04:24:02 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:24:02 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000234s ==========
+2026-08-28 04:24:02 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000613s ==========
+2026-08-28 04:24:10 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:24:10 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000948s ==========
+2026-08-28 04:24:10 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001708s ==========
+2026-08-28 04:24:10 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:24:10 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000516s ==========
+2026-08-28 04:24:10 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001211s ==========
+2026-08-28 04:24:25 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:24:25 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001418s ==========
+2026-08-28 04:24:25 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000893s ==========
+2026-08-28 04:24:25 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:24:25 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000264s ==========
+2026-08-28 04:24:25 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000650s ==========
+2026-08-28 04:24:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:24:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000693s ==========
+2026-08-28 04:24:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001023s ==========
+2026-08-28 04:24:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:24:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000317s ==========
+2026-08-28 04:24:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000867s ==========
+2026-08-28 04:25:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:25:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001101s ==========
+2026-08-28 04:25:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001481s ==========
+2026-08-28 04:25:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:25:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000485s ==========
+2026-08-28 04:25:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001212s ==========
+2026-08-28 04:25:34 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:25:34 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001407s ==========
+2026-08-28 04:25:34 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001059s ==========
+2026-08-28 04:25:34 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:25:34 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000324s ==========
+2026-08-28 04:25:34 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000816s ==========
+2026-08-28 04:26:04 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:26:04 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002221s ==========
+2026-08-28 04:26:04 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001512s ==========
+2026-08-28 04:26:04 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:26:04 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000407s ==========
+2026-08-28 04:26:04 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001181s ==========
+2026-08-28 04:26:11 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:26:11 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000578s ==========
+2026-08-28 04:26:11 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001229s ==========
+2026-08-28 04:26:11 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:26:11 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000360s ==========
+2026-08-28 04:26:11 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001065s ==========
+2026-08-28 04:26:35 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:26:35 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001199s ==========
+2026-08-28 04:26:35 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001488s ==========
+2026-08-28 04:26:35 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:26:35 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000450s ==========
+2026-08-28 04:26:35 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001261s ==========
+2026-08-28 04:26:43 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:26:43 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000802s ==========
+2026-08-28 04:26:43 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001591s ==========
+2026-08-28 04:26:43 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d'}
+2026-08-28 04:26:43 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000488s ==========
+2026-08-28 04:26:43 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001269s ==========
+2026-08-28 04:26:51 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:26:51 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002215s ==========
+2026-08-28 04:26:51 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001934s ==========
+2026-08-28 04:26:51 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:26:51 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000756s ==========
+2026-08-28 04:26:51 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001595s ==========
+2026-08-28 04:26:59 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-77ff4896-adba-4ff7-98df-7ba5cfb57358', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:26:59 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.003106s ==========
+2026-08-28 04:26:59 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001787s ==========
+2026-08-28 04:26:59 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-77ff4896-adba-4ff7-98df-7ba5cfb57358', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:26:59 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000544s ==========
+2026-08-28 04:26:59 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001435s ==========
+2026-08-28 04:27:20 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-77ff4896-adba-4ff7-98df-7ba5cfb57358', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:27:20 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002096s ==========
+2026-08-28 04:27:20 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001438s ==========
+2026-08-28 04:27:20 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-77ff4896-adba-4ff7-98df-7ba5cfb57358', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:27:20 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000480s ==========
+2026-08-28 04:27:20 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001160s ==========
+2026-08-28 04:27:56 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-77ff4896-adba-4ff7-98df-7ba5cfb57358', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:27:56 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001095s ==========
+2026-08-28 04:27:56 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001426s ==========
+2026-08-28 04:27:56 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-77ff4896-adba-4ff7-98df-7ba5cfb57358', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:27:56 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000433s ==========
+2026-08-28 04:27:56 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001200s ==========
+2026-08-28 04:28:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-77ff4896-adba-4ff7-98df-7ba5cfb57358', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:28:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001380s ==========
+2026-08-28 04:28:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001785s ==========
+2026-08-28 04:28:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-d4a67b00-0340-41b0-af12-920ae26b1796', 'fc-77ff4896-adba-4ff7-98df-7ba5cfb57358', 'fc-9ce6fd43-e3d4-4494-bb6e-a42911fcae3d', 'fc-0d0bd0ce-04c9-4968-b979-b6e887e69bc1'}
+2026-08-28 04:28:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000511s ==========
+2026-08-28 04:28:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001460s ==========
+2026-08-28 07:31:37 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:31:37 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000853s ==========
+2026-08-28 07:31:37 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000327s ==========
+2026-08-28 07:31:37 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:31:37 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000220s ==========
+2026-08-28 07:31:37 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000254s ==========
+2026-08-28 07:31:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:31:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000617s ==========
+2026-08-28 07:31:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000315s ==========
+2026-08-28 07:31:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:31:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000222s ==========
+2026-08-28 07:31:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000266s ==========
+2026-08-28 07:32:07 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:32:07 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000390s ==========
+2026-08-28 07:32:07 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000749s ==========
+2026-08-28 07:32:07 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:32:07 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000269s ==========
+2026-08-28 07:32:07 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000676s ==========
+2026-08-28 07:32:54 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:32:54 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001058s ==========
+2026-08-28 07:32:54 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001566s ==========
+2026-08-28 07:32:54 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:32:54 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000591s ==========
+2026-08-28 07:32:54 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001298s ==========
+2026-08-28 07:33:08 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:08 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000486s ==========
+2026-08-28 07:33:08 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000365s ==========
+2026-08-28 07:33:08 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:08 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000119s ==========
+2026-08-28 07:33:08 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000306s ==========
+2026-08-28 07:33:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000428s ==========
+2026-08-28 07:33:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000767s ==========
+2026-08-28 07:33:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000249s ==========
+2026-08-28 07:33:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000634s ==========
+2026-08-28 07:33:36 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:36 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001269s ==========
+2026-08-28 07:33:36 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000633s ==========
+2026-08-28 07:33:36 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:36 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000208s ==========
+2026-08-28 07:33:36 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000480s ==========
+2026-08-28 07:33:45 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:45 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000685s ==========
+2026-08-28 07:33:45 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000677s ==========
+2026-08-28 07:33:45 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:45 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000241s ==========
+2026-08-28 07:33:45 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001003s ==========
+2026-08-28 07:33:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000827s ==========
+2026-08-28 07:33:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001589s ==========
+2026-08-28 07:33:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:33:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000488s ==========
+2026-08-28 07:33:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000984s ==========
+2026-08-28 07:34:07 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:34:07 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000638s ==========
+2026-08-28 07:34:07 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000809s ==========
+2026-08-28 07:34:07 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:34:07 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000247s ==========
+2026-08-28 07:34:07 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000673s ==========
+2026-08-28 07:34:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:34:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000716s ==========
+2026-08-28 07:34:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001140s ==========
+2026-08-28 07:34:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:34:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000414s ==========
+2026-08-28 07:34:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001092s ==========
+2026-08-28 07:34:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:34:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000831s ==========
+2026-08-28 07:34:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001056s ==========
+2026-08-28 07:34:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:34:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000367s ==========
+2026-08-28 07:34:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001145s ==========
+2026-08-28 07:34:46 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:34:46 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002816s ==========
+2026-08-28 07:34:46 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001410s ==========
+2026-08-28 07:34:46 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:34:46 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000542s ==========
+2026-08-28 07:34:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001105s ==========
+2026-08-28 07:35:03 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:35:03 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001255s ==========
+2026-08-28 07:35:03 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001717s ==========
+2026-08-28 07:35:03 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:35:03 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000550s ==========
+2026-08-28 07:35:03 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001398s ==========
+2026-08-28 07:35:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:35:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000936s ==========
+2026-08-28 07:35:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002133s ==========
+2026-08-28 07:35:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:35:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000726s ==========
+2026-08-28 07:35:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001604s ==========
+2026-08-28 07:35:42 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:35:42 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002551s ==========
+2026-08-28 07:35:42 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001790s ==========
+2026-08-28 07:35:42 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:35:42 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000510s ==========
+2026-08-28 07:35:42 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001197s ==========
+2026-08-28 07:35:57 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:35:57 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000942s ==========
+2026-08-28 07:35:57 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002839s ==========
+2026-08-28 07:35:57 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:35:57 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001721s ==========
+2026-08-28 07:35:57 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.004316s ==========
+2026-08-28 07:36:20 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:36:20 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.005225s ==========
+2026-08-28 07:36:20 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001884s ==========
+2026-08-28 07:36:20 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:36:20 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000626s ==========
+2026-08-28 07:36:20 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001513s ==========
+2026-08-28 07:36:39 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:36:39 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001001s ==========
+2026-08-28 07:36:39 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001985s ==========
+2026-08-28 07:36:39 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:36:39 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000631s ==========
+2026-08-28 07:36:39 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002033s ==========
+2026-08-28 07:36:56 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:36:56 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001854s ==========
+2026-08-28 07:36:56 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.004176s ==========
+2026-08-28 07:36:56 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-e058307e-92b5-4fb0-aca4-bbd903025abf', 'fc-1787b22f-e58f-4b59-a6c7-a03b575723f1'}
+2026-08-28 07:36:56 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000584s ==========
+2026-08-28 07:36:56 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001374s ==========
+2026-08-28 09:52:17 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:52:17 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000584s ==========
+2026-08-28 09:52:17 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000397s ==========
+2026-08-28 09:52:17 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:52:17 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000133s ==========
+2026-08-28 09:52:17 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000330s ==========
+2026-08-28 09:52:36 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:52:36 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000355s ==========
+2026-08-28 09:52:36 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000408s ==========
+2026-08-28 09:52:36 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:52:36 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000141s ==========
+2026-08-28 09:52:36 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000344s ==========
+2026-08-28 09:52:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:52:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000931s ==========
+2026-08-28 09:52:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001172s ==========
+2026-08-28 09:52:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:52:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000417s ==========
+2026-08-28 09:52:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000952s ==========
+2026-08-28 09:54:06 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:54:06 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001032s ==========
+2026-08-28 09:54:06 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002441s ==========
+2026-08-28 09:54:06 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:54:06 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000457s ==========
+2026-08-28 09:54:06 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001087s ==========
+2026-08-28 09:54:40 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:54:40 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000434s ==========
+2026-08-28 09:54:40 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000460s ==========
+2026-08-28 09:54:40 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:54:40 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000153s ==========
+2026-08-28 09:54:40 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000394s ==========
+2026-08-28 09:55:03 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:03 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000625s ==========
+2026-08-28 09:55:03 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000903s ==========
+2026-08-28 09:55:03 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:03 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000270s ==========
+2026-08-28 09:55:03 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000728s ==========
+2026-08-28 09:55:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000596s ==========
+2026-08-28 09:55:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001149s ==========
+2026-08-28 09:55:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000350s ==========
+2026-08-28 09:55:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000942s ==========
+2026-08-28 09:55:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000674s ==========
+2026-08-28 09:55:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000927s ==========
+2026-08-28 09:55:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000265s ==========
+2026-08-28 09:55:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000661s ==========
+2026-08-28 09:55:43 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:43 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001312s ==========
+2026-08-28 09:55:43 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002791s ==========
+2026-08-28 09:55:43 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:43 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001068s ==========
+2026-08-28 09:55:43 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001243s ==========
+2026-08-28 09:55:51 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:51 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002529s ==========
+2026-08-28 09:55:51 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001959s ==========
+2026-08-28 09:55:51 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:55:51 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000902s ==========
+2026-08-28 09:55:51 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002544s ==========
+2026-08-28 09:56:17 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:56:17 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000711s ==========
+2026-08-28 09:56:17 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001123s ==========
+2026-08-28 09:56:17 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:56:17 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000328s ==========
+2026-08-28 09:56:17 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000930s ==========
+2026-08-28 09:56:31 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:56:31 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001054s ==========
+2026-08-28 09:56:31 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001892s ==========
+2026-08-28 09:56:31 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:56:31 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000570s ==========
+2026-08-28 09:56:31 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.003095s ==========
+2026-08-28 09:57:20 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:57:20 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001608s ==========
+2026-08-28 09:57:20 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002268s ==========
+2026-08-28 09:57:20 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:57:20 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.002196s ==========
+2026-08-28 09:57:20 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001432s ==========
+2026-08-28 09:58:00 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:58:00 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000756s ==========
+2026-08-28 09:58:00 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001288s ==========
+2026-08-28 09:58:00 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:58:00 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000391s ==========
+2026-08-28 09:58:00 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001128s ==========
+2026-08-28 09:58:47 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:58:47 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001156s ==========
+2026-08-28 09:58:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002752s ==========
+2026-08-28 09:58:47 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:58:47 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001061s ==========
+2026-08-28 09:58:47 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001489s ==========
+2026-08-28 09:58:59 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:58:59 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000869s ==========
+2026-08-28 09:58:59 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001282s ==========
+2026-08-28 09:58:59 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:58:59 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000358s ==========
+2026-08-28 09:58:59 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001001s ==========
+2026-08-28 09:59:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:59:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001223s ==========
+2026-08-28 09:59:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.003470s ==========
+2026-08-28 09:59:18 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:59:18 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000717s ==========
+2026-08-28 09:59:18 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001434s ==========
+2026-08-28 09:59:29 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:59:29 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000260s ==========
+2026-08-28 09:59:29 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000627s ==========
+2026-08-28 09:59:29 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 09:59:29 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000178s ==========
+2026-08-28 09:59:29 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000504s ==========
+2026-08-28 10:00:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:00:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000973s ==========
+2026-08-28 10:00:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001054s ==========
+2026-08-28 10:00:16 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:00:16 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000242s ==========
+2026-08-28 10:00:16 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000693s ==========
+2026-08-28 10:01:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:01:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000964s ==========
+2026-08-28 10:01:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001503s ==========
+2026-08-28 10:01:22 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:01:22 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000429s ==========
+2026-08-28 10:01:22 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001150s ==========
+2026-08-28 10:01:31 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:01:31 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000420s ==========
+2026-08-28 10:01:31 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000767s ==========
+2026-08-28 10:01:31 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:01:31 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000211s ==========
+2026-08-28 10:01:31 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000661s ==========
+2026-08-28 10:01:41 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:01:41 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000369s ==========
+2026-08-28 10:01:41 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000640s ==========
+2026-08-28 10:01:41 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:01:41 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000173s ==========
+2026-08-28 10:01:41 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000538s ==========
+2026-08-28 10:02:14 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:02:14 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000936s ==========
+2026-08-28 10:02:14 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001324s ==========
+2026-08-28 10:02:14 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:02:14 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000368s ==========
+2026-08-28 10:02:14 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001107s ==========
+2026-08-28 10:02:23 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:02:23 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000503s ==========
+2026-08-28 10:02:23 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000877s ==========
+2026-08-28 10:02:23 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:02:23 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000240s ==========
+2026-08-28 10:02:23 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000751s ==========
+2026-08-28 10:03:01 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:03:01 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001250s ==========
+2026-08-28 10:03:01 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001733s ==========
+2026-08-28 10:03:01 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:03:01 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000497s ==========
+2026-08-28 10:03:01 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001380s ==========
+2026-08-28 10:03:11 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:03:11 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000753s ==========
+2026-08-28 10:03:11 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001158s ==========
+2026-08-28 10:03:11 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:03:11 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000287s ==========
+2026-08-28 10:03:11 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000960s ==========
+2026-08-28 10:03:35 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:03:35 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000894s ==========
+2026-08-28 10:03:35 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002237s ==========
+2026-08-28 10:03:35 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:03:35 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000581s ==========
+2026-08-28 10:03:35 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001531s ==========
+2026-08-28 10:03:49 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:03:49 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001333s ==========
+2026-08-28 10:03:49 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002061s ==========
+2026-08-28 10:03:49 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-68e713c9-4a34-4391-822d-9ae67fff8be0', 'fc-a8b84e3b-87e3-4d8c-ba42-4abc21a2e04a'}
+2026-08-28 10:03:49 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000553s ==========
+2026-08-28 10:03:49 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001705s ==========
+2026-08-28 11:08:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:08:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000600s ==========
+2026-08-28 11:08:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000307s ==========
+2026-08-28 11:08:52 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:08:52 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000129s ==========
+2026-08-28 11:08:52 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000247s ==========
+2026-08-28 11:09:04 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:09:04 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000324s ==========
+2026-08-28 11:09:04 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000287s ==========
+2026-08-28 11:09:04 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:09:04 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000115s ==========
+2026-08-28 11:09:04 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000263s ==========
+2026-08-28 11:09:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:09:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001047s ==========
+2026-08-28 11:09:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001032s ==========
+2026-08-28 11:09:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:09:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000421s ==========
+2026-08-28 11:09:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000893s ==========
+2026-08-28 11:10:28 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:10:28 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000794s ==========
+2026-08-28 11:10:28 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001039s ==========
+2026-08-28 11:10:28 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:10:28 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000556s ==========
+2026-08-28 11:10:28 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000350s ==========
+2026-08-28 11:10:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:10:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000537s ==========
+2026-08-28 11:10:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000472s ==========
+2026-08-28 11:10:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:10:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000176s ==========
+2026-08-28 11:10:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000399s ==========
+2026-08-28 11:11:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:11:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000550s ==========
+2026-08-28 11:11:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001242s ==========
+2026-08-28 11:11:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:11:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000219s ==========
+2026-08-28 11:11:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000499s ==========
+2026-08-28 11:11:31 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:11:31 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000349s ==========
+2026-08-28 11:11:31 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000354s ==========
+2026-08-28 11:11:31 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:11:31 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000128s ==========
+2026-08-28 11:11:31 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000305s ==========
+2026-08-28 11:11:50 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:11:50 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000698s ==========
+2026-08-28 11:11:50 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000646s ==========
+2026-08-28 11:11:50 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:11:50 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000209s ==========
+2026-08-28 11:11:50 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000487s ==========
+2026-08-28 11:12:14 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:12:14 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000592s ==========
+2026-08-28 11:12:14 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000682s ==========
+2026-08-28 11:12:14 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:12:14 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000233s ==========
+2026-08-28 11:12:14 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000578s ==========
+2026-08-28 11:12:44 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:12:44 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000416s ==========
+2026-08-28 11:12:44 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000404s ==========
+2026-08-28 11:12:44 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:12:44 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000141s ==========
+2026-08-28 11:12:44 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000342s ==========
+2026-08-28 11:12:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:12:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001121s ==========
+2026-08-28 11:12:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001217s ==========
+2026-08-28 11:12:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:12:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000358s ==========
+2026-08-28 11:12:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000606s ==========
+2026-08-28 11:13:24 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:13:24 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000678s ==========
+2026-08-28 11:13:24 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000759s ==========
+2026-08-28 11:13:24 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:13:24 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000230s ==========
+2026-08-28 11:13:24 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000576s ==========
+2026-08-28 11:13:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:13:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001510s ==========
+2026-08-28 11:13:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000810s ==========
+2026-08-28 11:13:58 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:13:58 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000328s ==========
+2026-08-28 11:13:58 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000710s ==========
+2026-08-28 11:15:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:15:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001708s ==========
+2026-08-28 11:15:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001128s ==========
+2026-08-28 11:15:26 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:15:26 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000294s ==========
+2026-08-28 11:15:26 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000736s ==========
+2026-08-28 11:15:37 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:15:37 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001847s ==========
+2026-08-28 11:15:37 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001048s ==========
+2026-08-28 11:15:37 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:15:37 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000319s ==========
+2026-08-28 11:15:37 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000769s ==========
+2026-08-28 11:16:00 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:16:00 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001548s ==========
+2026-08-28 11:16:00 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001629s ==========
+2026-08-28 11:16:00 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:16:00 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000497s ==========
+2026-08-28 11:16:00 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000951s ==========
+2026-08-28 11:16:11 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:16:11 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001685s ==========
+2026-08-28 11:16:11 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001304s ==========
+2026-08-28 11:16:12 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:16:12 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000449s ==========
+2026-08-28 11:16:12 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001605s ==========
+2026-08-28 11:16:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:16:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001395s ==========
+2026-08-28 11:16:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000988s ==========
+2026-08-28 11:16:32 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:16:32 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000460s ==========
+2026-08-28 11:16:32 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000730s ==========
+2026-08-28 11:18:09 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:18:09 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001143s ==========
+2026-08-28 11:18:09 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001850s ==========
+2026-08-28 11:18:09 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:18:09 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000504s ==========
+2026-08-28 11:18:09 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001279s ==========
+2026-08-28 11:18:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:18:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001187s ==========
+2026-08-28 11:18:21 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001233s ==========
+2026-08-28 11:18:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:18:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000390s ==========
+2026-08-28 11:18:21 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000953s ==========
+2026-08-28 11:18:51 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:18:51 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001190s ==========
+2026-08-28 11:18:51 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001577s ==========
+2026-08-28 11:18:51 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:18:51 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000490s ==========
+2026-08-28 11:18:51 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001269s ==========
+2026-08-28 11:19:02 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:19:02 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001164s ==========
+2026-08-28 11:19:02 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001486s ==========
+2026-08-28 11:19:02 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:19:02 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000489s ==========
+2026-08-28 11:19:02 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001321s ==========
+2026-08-28 11:19:20 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:19:20 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001176s ==========
+2026-08-28 11:19:20 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002605s ==========
+2026-08-28 11:19:20 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:19:20 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000808s ==========
+2026-08-28 11:19:20 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001734s ==========
+2026-08-28 11:19:41 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:19:41 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001051s ==========
+2026-08-28 11:19:41 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001851s ==========
+2026-08-28 11:19:41 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:19:41 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000498s ==========
+2026-08-28 11:19:41 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001455s ==========
+2026-08-28 11:19:50 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:19:50 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001191s ==========
+2026-08-28 11:19:50 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001610s ==========
+2026-08-28 11:19:50 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:19:50 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000480s ==========
+2026-08-28 11:19:50 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001273s ==========
+2026-08-28 11:20:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:20:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001424s ==========
+2026-08-28 11:20:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001161s ==========
+2026-08-28 11:20:13 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:20:13 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000323s ==========
+2026-08-28 11:20:13 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000947s ==========
+2026-08-28 11:20:29 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:20:29 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001447s ==========
+2026-08-28 11:20:29 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002035s ==========
+2026-08-28 11:20:29 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:20:29 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000546s ==========
+2026-08-28 11:20:29 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001669s ==========
+2026-08-28 11:21:57 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:21:57 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001280s ==========
+2026-08-28 11:21:57 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.002773s ==========
+2026-08-28 11:21:57 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-52fe0307-d160-4599-be7d-e2eee29c861f', 'fc-8b72a08e-60bf-4069-984b-ea8ddf8ae6e7', 'fc-2cbd9fe2-a45b-4cf7-af2a-b4fdd6771bd7'}
+2026-08-28 11:21:57 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001067s ==========
+2026-08-28 11:21:57 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001402s ==========
+2026-08-28 13:55:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-afe4b925-7daa-40b4-8459-4a71a63c282e', 'fc-b9f574bc-daa2-4c98-ab0e-1d1880671925'}
+2026-08-28 13:55:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000629s ==========
+2026-08-28 13:55:21 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000361s ==========
+2026-08-28 13:55:21 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-afe4b925-7daa-40b4-8459-4a71a63c282e', 'fc-b9f574bc-daa2-4c98-ab0e-1d1880671925'}
+2026-08-28 13:55:21 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000113s ==========
+2026-08-28 13:55:21 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000304s ==========
+2026-08-28 14:18:34 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-66f9996a-6769-4ded-982a-5f76cc38349a', 'fc-2ed72582-d1e9-4d85-90fa-3d923b70c781'}
+2026-08-28 14:18:34 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000621s ==========
+2026-08-28 14:18:34 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000490s ==========
+2026-08-28 14:18:34 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-66f9996a-6769-4ded-982a-5f76cc38349a', 'fc-2ed72582-d1e9-4d85-90fa-3d923b70c781'}
+2026-08-28 14:18:34 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000155s ==========
+2026-08-28 14:18:34 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.000503s ==========
+2026-08-28 14:18:57 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-66f9996a-6769-4ded-982a-5f76cc38349a', 'fc-2ed72582-d1e9-4d85-90fa-3d923b70c781'}
+2026-08-28 14:18:57 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.001070s ==========
+2026-08-28 14:18:57 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001781s ==========
+2026-08-28 14:18:57 | INFO | tool_result_compactor.py:113 | execute | md_file_tool_ids: {'fc-66f9996a-6769-4ded-982a-5f76cc38349a', 'fc-2ed72582-d1e9-4d85-90fa-3d923b70c781'}
+2026-08-28 14:18:57 | INFO | base_op.py:287 | ToolResultCompactor.call | ========== cost=0.000527s ==========
+2026-08-28 14:18:57 | INFO | base_op.py:287 | ContextChecker.call | ========== cost=0.001126s ==========
+2026-08-28 14:18:58 | INFO | tool_result_compactor.py:160 | cleanup_expired_files | Cleaned up %d expired files (%d failed)
+2026-08-28 14:18:58 | INFO | application.py:517 | close | Closing file store: default
+2026-08-28 14:18:58 | INFO | application.py:521 | close | Closing file watcher: default
+2026-08-28 14:18:58 | INFO | base_file_watcher.py:100 | close | Stopped watching
+2026-08-28 14:18:58 | INFO | application.py:529 | close | Closing embedding model: default
+2026-08-28 14:18:58 | INFO | base_embedding_model.py:225 | _save_cache | Attempting to save cache, current size: 0
+2026-08-28 14:18:58 | INFO | base_embedding_model.py:227 | _save_cache | Cache is empty, skipping save
+2026-08-28 14:18:58 | INFO | application.py:536 | close | ReMe Application closed
+2026-08-28 14:18:58 | INFO | application.py:517 | close | Closing file store: default
+2026-08-28 14:18:58 | INFO | application.py:521 | close | Closing file watcher: default
+2026-08-28 14:18:58 | INFO | base_file_watcher.py:100 | close | Stopped watching
+2026-08-28 14:18:58 | INFO | application.py:529 | close | Closing embedding model: default
+2026-08-28 14:18:58 | INFO | base_embedding_model.py:225 | _save_cache | Attempting to save cache, current size: 0
+2026-08-28 14:18:58 | INFO | base_embedding_model.py:227 | _save_cache | Cache is empty, skipping save
+2026-08-28 14:18:58 | INFO | application.py:536 | close | ReMe Application closed
